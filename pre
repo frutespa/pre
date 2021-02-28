@@ -1,0 +1,2 @@
+docker pull presearch / nodo
+docker run -it --rm -v presearch-node-storage: / app / node --name presearch-node -e REGISTRATION_CODE = YOUR_CODE_HERE presearch / node
